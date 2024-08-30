@@ -53,16 +53,14 @@ Welcome to the SuperStore Sales Data Analysis and Visualization project! This pr
 ## 🚀 Getting Started
 1. **Clone the Repository**:
    ```sh
-   git clone https://github.com/AaditSingh/Dashboarding-Project-Sales-Data-Analysis.git
+   git clone https://github.com/mannugram/Dashboarding-Project-Sales-Data-Analysis.git
    ```
 
 2. **Open the Power BI file**: Open the Store Sales.pbix file in Power BI Desktop.
 3. **Explore the Data**: Interact with the dashboards and visualizations to gain insights.
 
 ## 👤 Author
-- **Aadit Singh**
-
-
+- **Mann Raval**
 
 
 
